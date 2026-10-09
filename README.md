@@ -67,5 +67,5 @@ Distributed under the MIT License. See `LICENSE` for the full text.
 
 ---
 <div align="center">
-  <sub>Built with ❤️ by Udhay Adithya</sub>
+  <sub>Built by Udhay Adithya</sub>
 </div>
